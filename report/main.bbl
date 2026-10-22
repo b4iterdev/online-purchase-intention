@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{breiman2001random}
+Leo Breiman.
+\newblock Random forests.
+\newblock {\em Machine learning}, 45(1):5--32, 2001.
+
+\bibitem{breiman1984classification}
+Leo Breiman, Jerome~H Friedman, Richard~A Olshen, and Charles~J Stone.
+\newblock {\em Classification and Regression Trees}.
+\newblock Wadsworth \& Brooks/Cole Advanced Books \& Software, 1984.
+
+\bibitem{cortes1995support}
+Corinna Cortes and Vladimir Vapnik.
+\newblock Support-vector networks.
+\newblock {\em Machine learning}, 20(3):273--297, 1995.
+
+\bibitem{cover1967nearest}
+Thomas Cover and Peter Hart.
+\newblock Nearest neighbor pattern classification.
+\newblock {\em IEEE Transactions on Information Theory}, 13(1):21--27, 1967.
+
+\bibitem{cox1958regression}
+David~R Cox.
+\newblock The regression analysis of binary sequences.
+\newblock {\em Journal of the Royal Statistical Society: Series B
+  (Methodological)}, 20(2):215--232, 1958.
+
+\bibitem{scikit-learn}
+Fabian Pedregosa, Ga{\"e}l Varoquaux, Alexandre Gramfort, Vincent Michel,
+  Bertrand Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron
+  Weiss, Vincent Dubourg, et~al.
+\newblock Scikit-learn: Machine learning in python.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{sakar2019real}
+C~Okan Sakar, S~Olcay Polat, Mete Katircioglu, and Yomi Agrawal.
+\newblock Real-time prediction of online shoppers' purchasing intention using
+  multilayer perceptron and lstm recurrent neural networks.
+\newblock {\em Neural Computing and Applications}, 31(10):6893--6908, 2019.
+
+\end{thebibliography}
